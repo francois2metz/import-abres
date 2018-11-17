@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "@mapbox/togeojson": "^0.16.0"
+  }
+}
